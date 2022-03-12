@@ -1,5 +1,5 @@
 module.exports = {
-        TOKEN: 'OTUyMDg2Njc4MjkyNTQxNDYw.Yiw50Q.H_sjyFZNCpZcA-c8AOVfAlptyIg', //token buraya//
+        TOKEN
         px: '!',
         playing: 'Crew Music 🎧',
 
